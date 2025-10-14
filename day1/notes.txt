@@ -1,0 +1,27 @@
+HTML stands for HyperText Markup Language. 
+HyperText  --> means links or clickble text
+markup --> those text that are inbounded in <html>
+
+<!DOCTYPE html> this is an html page of version html5 
+<html lang="en">  this define you whole web page
+<head> the top protion above the content is head
+    <title>Document</title> that define out website name in tab
+</head>
+<body> // all the wihte portion we see is our body.
+    
+</body>
+</html>
+
+
+-----------------------------------------
+
+<>.. </> tags
+<> open tag //eg - <html>
+</> close tag  // eg - </html>
+
+<body> something </body> // (open tag + content + close tag) --> element
+
+<html  lang="en"> // here this ' lang="en"' the extra thing we see is the additional functionality to a tag which is called [attribute].
+
+
+in html there are some self closing tags also we don't need to close that tags manually.
