@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#box{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    border: 2px solid red;
+    
+}
+
+
+@media (max-width:450px) {
+    body{
+        flex-direction: column;
+        
+    }
+    #box{
+        background-color: red;
+    }
+}

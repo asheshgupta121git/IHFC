@@ -1,0 +1,153 @@
+body{
+    background-color: #061926;
+    color: EEEEEE;
+    font-family: Arial;
+    margin: 0;
+    padding: 20px;
+}
+
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #343637;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid #e7f2ef;
+    border-radius: 10px;
+
+}
+
+header h1{
+    color: #287ddf;
+    font-size: 35px;
+    margin: 0;
+}
+
+
+.image-section{
+    background-color: #343637;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #f2f5f7;
+    border-radius: 10px;
+}
+
+#profileImg{
+    height: 150px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+
+hr{
+    border: none;
+    height: 2px;
+    background-color: #a1c2bd;
+
+}
+
+.section{
+    background-color: #343637;
+    padding: 25px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    border: 2px solid #f2f5f7;
+}
+
+
+h3{
+    color: #287ddf;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #4a9eff;
+    padding-bottom: 5px;
+
+}
+
+
+p{
+    font-size: 16px;
+    line-height: 1.5;
+    color: aliceblue;
+    margin-bottom: 10px;
+
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+li{
+    background-color: #111111;
+    padding: 10px;
+    margin-bottom: 8px;
+    color: aliceblue;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.form-section{
+    background-color: #343637;
+    padding: 25px;
+    border: 2px solid #f2f5f7;
+    border-radius: 10px;
+
+}
+
+label{
+    color: #4a9eff;
+    font-size: 16px;
+    font-weight: bolder;
+    padding-right: 10px;
+
+}
+
+
+input[type = "text"],
+input[type = "number"],
+input[type = "email"]{
+    word-break: 300px;
+    padding: 8px;
+    font-size: 15px;
+    border: 1px solid #ccc9c9;
+    background-color: #111111;
+    color: aliceblue;
+    outline: none;
+    border-radius: 10px;
+
+}
+
+
+input[type = "radio"]{
+    margin-right: 5px;
+}
+
+button{
+    background-color: #4a9eff;
+    padding: 15px;
+    text-align: center;
+    border: 2px solid #ccc9c9;
+    border-radius: 10px;
+
+}
+
+footer{
+    background-color: #333333;
+    padding: 15px;
+    text-align: center;
+    border: 2px solid #ccc9c9;
+    border-radius: 10px;
+
+}
+
+.pFooter{
+    color: #4a9eff;
+    font-size: 14px;
+    margin: 0;
+}
